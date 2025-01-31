@@ -27,8 +27,7 @@ const TopicCreateForm = () => {
           <DialogHeader>
             <DialogTitle>Create a Topic</DialogTitle>
             <DialogDescription>
-              Write a new topic to start discussion. Click save when you're
-              done.
+             Write a new topic to start discussion. Click save when you&apos;re done.
             </DialogDescription>
           </DialogHeader>
           <div className="grid gap-4 py-4">
